@@ -96,3 +96,87 @@ margin:0;
     margin-top: 200px;
     text-align: center;
   }
+
+  .flexible{
+    display: flex;
+    margin-left: 50px;
+    
+  }
+
+  .card{
+
+    width: 40%;
+    height:400px;
+    padding-left:35px;
+    padding-right:35px;
+    border: 1px solid darkcyan;
+    margin:30px;
+    background-color: rgb(235, 231, 225);
+    
+  }
+
+  .pbox-text{
+    text-align: justify;
+  }
+
+  .icon img{
+    width:50px;
+    padding-top:70px;
+    
+  }
+
+  .main-section{
+    display: flex;
+  }
+
+  
+
+#anchor-button{
+
+      border-radius: 6px;
+      font-size: 26px;
+      font-weight:bolder;
+      background-color: rgb(161, 180, 237);
+      padding: 5px;
+      text-decoration: none;
+      color: rgb(0, 3, 6);
+      
+      
+    }
+  .section-image img{
+      height: 500px;
+      margin-left:200px;
+      background-repeat: no-repeat;
+      margin-top: 200px;
+
+    }
+
+.text-pgraph{
+  font-size: xx-large;
+  text-align: justify;
+  margin-bottom: 50px;
+  margin-top: 300px;
+  padding-left: 30px;
+  
+  }
+  .place-email{
+   margin: 100px;
+   padding-left:40%;
+   
+  }
+  email{
+    height: 50px;
+    border: 2px rgb(237, 39, 39);
+
+  }
+
+  .footer-design{
+
+   height: 200px;
+   width:100%;
+   background-color: black;
+   text-align: center;
+   color: brown;
+  padding-top:20px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif;
+  }
